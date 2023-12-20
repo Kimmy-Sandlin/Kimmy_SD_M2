@@ -1,0 +1,14 @@
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\bin\Debug\net7.0\Kimmy_SD_M2.exe
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\bin\Debug\net7.0\Kimmy_SD_M2.deps.json
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\bin\Debug\net7.0\Kimmy_SD_M2.runtimeconfig.json
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\bin\Debug\net7.0\Kimmy_SD_M2.dll
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\bin\Debug\net7.0\Kimmy_SD_M2.pdb
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\Kimmy_SD_M2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\Kimmy_SD_M2.AssemblyInfoInputs.cache
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\Kimmy_SD_M2.AssemblyInfo.cs
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\Kimmy_SD_M2.csproj.CoreCompileInputs.cache
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\Kimmy_SD_M2.dll
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\refint\Kimmy_SD_M2.dll
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\Kimmy_SD_M2.pdb
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\Kimmy_SD_M2.genruntimeconfig.cache
+C:\Users\Kimmy\OneDrive\Documents\Projects\Kimmy_SD_M2\Kimmy_SD_M2\obj\Debug\net7.0\ref\Kimmy_SD_M2.dll
